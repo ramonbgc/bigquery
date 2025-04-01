@@ -1,0 +1,1 @@
+SELECT * FROM `rgc-demos.demo_e2e.PatientHospital` LIMIT 1000
