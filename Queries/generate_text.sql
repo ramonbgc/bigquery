@@ -21,4 +21,7 @@ FROM
       TRUE AS FLATTEN_JSON_OUTPUT,
       1000 AS MAX_OUTPUT_TOKENS
     )
-  );  
+  );
+
+
+  -- modifico
